@@ -57,6 +57,8 @@ names_to_hex = {
     'warm-2':                '#f6e9d8',
     'warm-3':                '#cec6b9',
     'warm-4':                '#1d1d1d',
+    'warm-5':                '#fdf8f2',
+    'warm-6':                '#8b572a',
     'cold-1':                '#505050',
     'cold-2':                '#333333',
     'cold-3':                '#1d1d1d',
@@ -67,5 +69,8 @@ names_to_hex = {
     'purple-1':              '#410057',
     'purple-2':              '#f3dee3',
     'link-1':                '#27757b',
-    'link-2':                '#2bbbbf'
+    'link-2':                '#2bbbbf',
+    'claret-1':              '#9e2f50',
+    'claret-2':              '#ff7f8a'
+    
 }
